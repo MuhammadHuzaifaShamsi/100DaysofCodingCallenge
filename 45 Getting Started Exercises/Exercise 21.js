@@ -1,4 +1,12 @@
-// Am unable to understand the question. Hence, can't attempt!!
 
+function object (name, age){
+    let objects = {
+        name: name,
+        age: age
+    }
 
-// *brain not braining :')
+    console.log(objects);
+
+}
+
+object("huzaifa", 18);
